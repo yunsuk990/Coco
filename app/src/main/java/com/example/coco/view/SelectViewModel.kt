@@ -5,8 +5,4 @@ import timber.log.Timber
 
 class SelectViewModel: ViewModel() {
 
-    fun test(){
-        Timber.d("test")
-    }
-
 }
