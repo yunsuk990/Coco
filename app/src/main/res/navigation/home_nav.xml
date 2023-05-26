@@ -8,11 +8,11 @@
     <fragment
         android:id="@+id/coinListFragment"
         android:name="com.example.coco.view.main.CoinListFragment"
-        android:label="fragment_coin_list"
+        android:label="coinListFragment"
         tools:layout="@layout/fragment_coin_list" />
     <fragment
         android:id="@+id/priceListFragment"
         android:name="com.example.coco.view.main.PriceListFragment"
-        android:label="fragment_price_list"
+        android:label="priceListFragment"
         tools:layout="@layout/fragment_price_list" />
 </navigation>
